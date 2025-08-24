@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Excel
+~$*.xlsm
+~$*.xlsx
+*.xlsb
+*.tmp
+
+# Logs
+*.log
+logs/
+
+# Temp files
+temp/
+*.tmp
+
+# API keys and secrets
+.env
+config.ini
+settings.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test files
+test_*.xlsx
+test_*.xlsm
+
+# Output
+reports/
+output/
+exports/
